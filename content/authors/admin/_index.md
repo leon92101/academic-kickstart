@@ -68,9 +68,15 @@ user_groups:
 - Visitors
 ---
 Self-employed trader.
+
 The Lone Ranger.
+
 Irregular type from social.
+
 Never worked in social, self-employed after got bachelor degree.
+
 Language: Chinese, English, Japanese, Shanghainese.
+
 Something I like: Competitive Industry, Japanese ACG Culture, Football Game.
+
 Present situation: Studying for Master degree in England.
