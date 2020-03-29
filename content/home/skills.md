@@ -18,18 +18,29 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "可以使用时间序列分析数据程度的能力"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "coins"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Trading"
+  description = "可以稳定高收入程度的能力"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "可以初步使用爬虫程度的能力"
+  
+[[feature]]
+  icon = "infinity"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
-
+  name = "Actuarial Science"
+  description = "可以通过准精算师前3个证程度的能力"
+  
+[[feature]]
+  icon = "money-bill-alt"
+  icon_pack = "fas"
+  name = "Finance"
+  description = "可以理解金融事件对事物的影响的程度的能力"  
 +++
