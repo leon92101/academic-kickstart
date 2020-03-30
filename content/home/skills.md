@@ -36,7 +36,7 @@ subtitle = ""
   icon = "infinity"
   icon_pack = "fas"
   name = "Actuarial Science"
-  description = "可以通过准精算师前3个证程度的能力"
+  description = "可以通过FSA前3个证程度的能力"
   
 [[feature]]
   icon = "money-bill-alt"
