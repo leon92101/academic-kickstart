@@ -24,7 +24,7 @@ interests:
 - Trading(Stocks, Forex, Futures, Options)
 - Japanese Animation/Comics/Games(ACG)
 - Programming & Software Engineering
-- Football Games(Premier League, UEFA, etc.)
+- Football Games
 
 education:
   courses:
