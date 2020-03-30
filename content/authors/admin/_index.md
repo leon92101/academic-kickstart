@@ -13,12 +13,12 @@ superuser: true
 role: Schweitzer Studio
 
 # Organizations/Affiliations
-#organizations:
-#- name: Stanford University
-#  url: ""
+organizations:
+- name: 大宇宙真理教
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 愿这大宇宙一切美好之物 都能长久共存
 
 interests:
 - Trading(Stocks, Forex, Futures, Options)
