@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Leon Schweitzer
+name: eon Schweitzer
 
 # Username (this should match the folder name)
 authors:
