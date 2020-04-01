@@ -86,4 +86,5 @@ Present situation: Studying for Master degree in England.\
 个人性格特点参考旧EVA的明日香(实际的强大而自负, 傲娇).\
 平时的生活基本是以ACG和交易赚钱两种模式构成.\
 希望以后能创立包揽各领域为一体的公司构成.\
+支持利物浦!\
 上海>>美国>>英国.
