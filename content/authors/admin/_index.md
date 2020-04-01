@@ -80,4 +80,9 @@ Irregular type from social.\
 Never worked in social, self-employed after got bachelor degree.\
 Language: Chinese, English, Japanese, Shanghainese.\
 Something I like: Competitive Industry, Japanese ACG Culture, Football Game.\
-Present situation: Studying for Master degree in England.
+Present situation: Studying for Master degree in England.\
+二次元死宅+金融量化交易员混合型稀缺人种.\
+2015年毕业后在家宅着做交易, 社交圈极窄.\
+个人性格特点参考旧EVA的明日香(实际的强大而自负, 傲娇).\
+平时的生活基本是以ACG和交易赚钱两种模式构成.\
+上海>>美国>>英国.\
