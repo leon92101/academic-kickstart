@@ -87,5 +87,4 @@ Present situation: Studying for Master degree in England.\
 平时的生活基本是以ACG和交易赚钱两种模式构成.\
 希望以后能创立包揽各领域为一体的企业构成.\
 支持利物浦!\
-test\
 上海>>美国>>英国.
